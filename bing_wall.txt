@@ -1,0 +1,1 @@
+console.log(`https://bing.com${document.querySelectorAll('body > div.hpapp > div > div:nth-child(1) > div.hp_media_container > div.img_cont')[0].getAttribute('style').split('url("')[1].split('&')[0]}`)
